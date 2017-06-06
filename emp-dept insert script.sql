@@ -1,3 +1,4 @@
+-- many to many composite pk base on two table pk
 create table USER_AUTHORITY(
   user_id INT references user(id),
   authority_id INT references authority(id),
