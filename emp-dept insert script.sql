@@ -1,3 +1,9 @@
+create table USER_AUTHORITY(
+  user_id INT references user(id),
+  authority_id INT references authority(id),
+  primary key (user_id,authority_id)
+);
+
 create table dept(   
   deptno     number(2,0),   
   dname      varchar2(14),   
