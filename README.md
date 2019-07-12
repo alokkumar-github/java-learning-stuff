@@ -43,7 +43,7 @@ git difftool HEAD~2 HEAD~1
 //or 
 git difftool <privious commit id> <current commit id>
 
-
+git branch
 git checkout master or<any branch> // see the .git folder for HEAD file ( ref: refs/heads/master )
 
 
