@@ -62,6 +62,13 @@ refrences ::::::::::::::::::::::::::::::::::::::
 ---------------------------------------------------------
 https://www.youtube.com/playlist?list=PLeo1K3hjS3usJuxZZUBdjAcilgfQHkRzW
 
+// gerrit push
+-----------------------------------
+http://fosshelp.blogspot.com/2014/12/gerrit-error-missing-change-id-in.html
+
+
+
+
 
 
  
