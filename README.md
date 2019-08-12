@@ -57,6 +57,9 @@ git  status
 
 // what is pull request.
 
+gir rev-parse HEAD ( git sha ----- latest commit token id)
+or git log
+
 
 refrences ::::::::::::::::::::::::::::::::::::::
 ---------------------------------------------------------
